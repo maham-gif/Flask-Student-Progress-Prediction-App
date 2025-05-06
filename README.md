@@ -1,3 +1,4 @@
+Student Performance Prediction Flask Application
  Flask-Student-Progress-Prediction-AppDescription
 This Flask application uses machine learning to predict student performance based on various factors such as study habits, attendance, parental involvement, and more. The application is built with a deep learning model that is trained on historical student performance data. Once trained, the model predicts a student's final exam score based on provided input features.
 
